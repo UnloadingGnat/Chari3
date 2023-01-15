@@ -2,8 +2,12 @@
 
 ## Installation Instructions
 
+```
+git clone https://github.com/UnloadingGnat/Chari3.git
+cd frontend
 
-
+npm install && npm start
+```
 
 ## Inspiration 💡
 The controversy in 2020 that the WE Charity was funneling $900 million in federal COVID relief for students [1], was extremely detrimental to the charity sector as people began to lose trust in these organizations as they began to rightly ask questions related to a charity's governance, finance, lobbying, conflicts of interest, salaries and structure.
