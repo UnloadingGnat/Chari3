@@ -209,3 +209,54 @@ body {
     box-shadow: 0 6px 9px rgba(0, 0, 0, 0.1);
     transform: translateY(-1px);
 }
+
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #9e9e9e;
+    transition: all 0.3s;
+    font-size: 16px;
+}
+
+.form-input:focus {
+    border-bottom: 2px solid black;
+    outline: none;
+}
+
+.description-create {
+    margin-left: -40px;
+}
+
+.forms-create {
+    margin-left: -40px;
+}
+
+
+.form-button {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.3s;
+    font-size: 16px;
+}
+
+.form-button:hover {
+    background-color: #333;
+}
