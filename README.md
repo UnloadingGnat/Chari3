@@ -1,5 +1,7 @@
 # Chari3
 
+## WINNER Most Innovative Use of Verbwire API @ DeltaHacks IX (430 Participants)
+
 https://devpost.com/software/chari3
 
 
